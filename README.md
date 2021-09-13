@@ -7,10 +7,7 @@ Case Brief: Top Traffic & Channel, Landing Page Testing (Bounce Rates, Conversio
 Maven Fuzzy Factory Database contains six related tables of eCommerce data:
 - Website Activity: website_sessions, website_pageviews
 - Products: products
-- Orders and Refunds: orders, order_items, order_item_refunds
-
- and Refunds: orders, order_items, order_item_refunds
-
+- Orders and Refunds: orders, order_items, order_item_refunds 
 
 ## 2. TOP TRAFFIC SOURCE & CHANNEL
 ### Business Concept
